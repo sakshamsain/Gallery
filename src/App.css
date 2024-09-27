@@ -1,20 +1,4 @@
-.app-container {
-  background-color: black; /* Black background */
-  min-height: 100vh; /* Make sure it covers the full height */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column; /* Align items vertically */
-}
-.h1{
-  align-items: center;
-  justify-content: center;
-  justify-self: center;
-  text-align: center;
-}
-.gallery-section {
-  width: 100%;
-  max-width: 1200px;
+.1200px;
   padding: 20px;
   margin: 0 auto;
   background-color: #0000;
